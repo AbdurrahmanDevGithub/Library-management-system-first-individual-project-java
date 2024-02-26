@@ -1,5 +1,4 @@
-Library Management System(GUI)
---Library Management System--
+--Library Management System(GUI project)--
 This is a library management system project developed as an individual project during my first year in my diploma program. The project is aimed at efficiently managing library resources and operations.
 
 
